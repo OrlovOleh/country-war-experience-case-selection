@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the version-specific Zenodo release when available."
+title: "Country war experience case selection: Data and R scripts"
+type: software
+authors:
+  - family-names: "Orlov"
+    given-names: "Oleh"
+version: 1.0.0
+date-released: 2026-09-01
+repository-code: "https://github.com/OrlovOleh/country-war-experience-case-selection"
+url: "https://github.com/OrlovOleh/country-war-experience-case-selection"
+abstract: >-
+  Replication materials for a cross-national study of state war experience
+  as a multidimensional criterion for systematic case selection, with Ukraine
+  as the reference case. The repository contains a derived country-level
+  analytical workbook, hierarchical cluster analysis scripts, variable-
+  importance analysis, and the principal figure-generation script.
+keywords:
+  - war experience
+  - case selection
+  - cross-national comparison
+  - hierarchical cluster analysis
+  - Ukraine
